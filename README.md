@@ -15,4 +15,4 @@
 
 - 便利なVimコマンド25選 ( http://qiita.com/jnchito/items/57ffda5712636a9a1e62 )
 - Vim幼稚園からVim小学校へ ( http://qiita.com/hachi8833/items/7beeee825c11f7437f54 )
-
+- Vim Tips wiki ( http://vim.wikia.com/wiki/Vim_Tips_Wiki )
